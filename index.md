@@ -3,9 +3,10 @@
 <style>
 div.gallery {
   margin: 5px;
+  margin-top:10px;
   border: 1px solid #ccc;
   float: left;
-  width: 260px;
+  width: 262px;
 }
 
 div.gallery:hover {
