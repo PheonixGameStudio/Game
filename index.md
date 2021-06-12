@@ -2,7 +2,7 @@
 <head>
 <style>
 div.gallery {
-  margin: 5px;
+  margin: 6px;
   border: 1px solid #ccc;
   float: left;
   width: 260px;
