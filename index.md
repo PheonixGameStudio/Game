@@ -5,7 +5,7 @@ div.gallery {
   margin: 5px;
   border: 1px solid #ccc;
   float: left;
-  width: 300px;
+  width: 260px;
 }
 
 div.gallery:hover {
