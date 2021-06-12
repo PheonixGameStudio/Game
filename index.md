@@ -3,7 +3,6 @@
 <style>
 div.gallery {
   margin: 5px;
-  margin-top:10px;
   border: 1px solid #ccc;
   float: left;
   width: 265px;
@@ -67,7 +66,7 @@ div.desc {
   <a target="_blank" href="house1.jpg">
     <img src="house1.jpg" alt="Northern Lights" width="600" height="400"></a>
     <div class="desc">Add a description of the image here</div></div>
-<p>&nbsp;</p>
+<p>_</p>
   
 <div class="gallery">
   <a target="_blank" href="house1.jpg">
