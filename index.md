@@ -66,10 +66,10 @@ div.desc {
   <a target="_blank" href="house1.jpg">
     <img src="house1.jpg" alt="Northern Lights" width="600" height="400"></a>
     <div class="desc">Add a description of the image here</div></div>
-  <p></p>
-  <p></p>
-  <p></p>
-  <p></p>
+  <p>g</p>
+  <p>g</p>
+  <p>g</p>
+  <p>g</p>
 <div class="gallery">
   <a target="_blank" href="house1.jpg">
     <img src="house1.jpg" alt="Mountains" width="600" height="400"></a>
