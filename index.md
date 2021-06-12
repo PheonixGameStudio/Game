@@ -18,6 +18,7 @@ div.gallery img {
 }
 
 div.desc {
+  font-size: 14px;
   padding: 15px;
   text-align: center;
 }
@@ -52,18 +53,13 @@ div.desc {
 </head>
 <body>
 <div class="gallery">
-  <a target="_blank" href="house1.jpg">
-    <img src="house1.jpg" alt="Cinque Terre" width="600" height="400">
-  </a>
-  <div class="desc">Add a description of the image here</div>
-</div>
-
+  <a target="_blank" href="house1.jpg"><img src="house1.jpg" alt="Cinque Terre" width="600" height="400"></a>
+  <div class="desc">Add a description of the image here</div></div>
+  
 <div class="gallery">
   <a target="_blank" href="house1.jpg">
-    <img src="house1.jpg" alt="Forest" width="600" height="400">
-  </a>
-  <div class="desc">Add a description of the image here</div>
-</div>
+    <img src="house1.jpg" alt="Forest" width="600" height="400"></a>
+    <div class="desc">Add a description of the image here</div></div>
 
 <div class="gallery">
   <a target="_blank" href="house1.jpg">
