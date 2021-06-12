@@ -69,8 +69,6 @@ div.desc {
     <div class="desc">Add a description of the image here</div></div>
   <p>g</p>
   <p>g</p>
-  <p>g</p>
-  <p></p>
 <div class="gallery">
   <a target="_blank" href="house1.jpg">
     <img src="house1.jpg" alt="Mountains" width="600" height="400"></a>
@@ -91,12 +89,18 @@ div.desc {
 <div class="gallery">
   <a target="_blank" href="house1.jpg"><img src="house1.jpg" alt="Mountains" width="600" height="400"></a>
   <div class="desc">Add a description of the image here</div></div>  
-  <p><br>
+  
+<div class="gallery">
+  <a target="_blank" href="house1.jpg"><img src="house1.jpg" alt="Mountains" width="600" height="400"></a>
+  <div class="desc">Add a description of the image here</div></div>    
+  
 <br>
 <br>
 <br>
 <br>
-<br></p>
+<br>
+<br>
+  
   <div class="center">
   <div class="pagination">
   <a href="#">&laquo;</a>
