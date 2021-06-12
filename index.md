@@ -2,7 +2,7 @@
 <head>
 <style>
 div.gallery {
-  margin: 6px;
+  margin: 7px;
   border: 1px solid #ccc;
   float: left;
   width: 260px;
@@ -24,12 +24,6 @@ div.desc {
 </style>
 </head>
 <body>
-<br>
-  <br>
-  <br>
-  <br>
-  <br>
-  <br>
 <div class="gallery">
   <a target="_blank" href="house1.jpg">
     <img src="house1.jpg" alt="Cinque Terre" width="600" height="400">
@@ -50,7 +44,7 @@ div.desc {
   </a>
   <div class="desc">Add a description of the image here</div>
 </div>
-<br>
+
 <div class="gallery">
   <a target="_blank" href="house1.jpg">
     <img src="house1.jpg" alt="Mountains" width="600" height="400">
