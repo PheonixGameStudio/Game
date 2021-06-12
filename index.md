@@ -24,7 +24,12 @@ div.desc {
 </style>
 </head>
 <body>
-
+<br>
+  <br>
+  <br>
+  <br>
+  <br>
+  <br>
 <div class="gallery">
   <a target="_blank" href="house1.jpg">
     <img src="house1.jpg" alt="Cinque Terre" width="600" height="400">
