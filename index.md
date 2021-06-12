@@ -66,7 +66,7 @@ div.desc {
   <a target="_blank" href="house1.jpg">
     <img src="house1.jpg" alt="Northern Lights" width="600" height="400"></a>
     <div class="desc">Add a description of the image here</div></div>
-<p>_ gsghoe</p>
+<p>_ sachin</p>
   
 <div class="gallery">
   <a target="_blank" href="house1.jpg">
@@ -80,7 +80,7 @@ div.desc {
 <div class="gallery">
   <a target="_blank" href="house1.jpg"><img src="house1.jpg" alt="Mountains" width="600" height="400"></a>
   <div class="desc">Add a description of the image here</div></div>
-<p>&nbsp;</p>
+<p><br><br></p>
   
 <div class="gallery">
   <a target="_blank" href="house1.jpg"><img src="house1.jpg" alt="Mountains" width="600" height="400"></a>
