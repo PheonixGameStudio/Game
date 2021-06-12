@@ -7,6 +7,9 @@ div.gallery {
   float: left;
   width: 265px;
 }
+p.wfull{
+  width = 100%;
+}
 
 div.gallery:hover {
   border: 1px solid #777;
@@ -66,7 +69,7 @@ div.desc {
   <a target="_blank" href="house1.jpg">
     <img src="house1.jpg" alt="Northern Lights" width="600" height="400"></a>
     <div class="desc">Add a description of the image here</div></div>
-<p>_ sachin</p>
+<p class="wfull"></p>
   
 <div class="gallery">
   <a target="_blank" href="house1.jpg">
