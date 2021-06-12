@@ -10,17 +10,16 @@
   <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"></script>
 </head>
 <body>
-  <div class="container">
-    <div class="row">
-    <div class="col-lg-2">this is <div>
-    <div class="col-lg-2">this is <div>
-    <div class="col-lg-2">this is <div>
-    <div class="col-lg-2">this is <div>
-    <div class="col-lg-2">this is <div>
-    <div class="col-lg-2">this is <div>
-    <div class="col-lg-2">this is <div>
-    </div>  
-  </div>  
+  <img src="house1.jpg" alt="">
+  <img src="" alt="">
+  <img src="" alt="">
+  <img src="" alt="">
+  <img src="" alt="">
+  <img src="" alt="">
+  <img src="" alt="">
+  <img src="" alt="">
+  <img src="" alt="">
+  <img src="" alt="">
 
 </body>
 </html>
