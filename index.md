@@ -51,6 +51,7 @@ div.desc {
   
 </style>
 </head>
+  
 <body>
 <div class="gallery">
   <a target="_blank" href="house1.jpg"><img src="house1.jpg" alt="Cinque Terre" width="600" height="400"></a>
@@ -63,50 +64,45 @@ div.desc {
 
 <div class="gallery">
   <a target="_blank" href="house1.jpg">
-    <img src="house1.jpg" alt="Northern Lights" width="600" height="400">
-  </a>
-  <div class="desc">Add a description of the image here</div>
-</div>
+    <img src="house1.jpg" alt="Northern Lights" width="600" height="400"></a>
+    <div class="desc">Add a description of the image here</div></div>
 
 <div class="gallery">
   <a target="_blank" href="house1.jpg">
-    <img src="house1.jpg" alt="Mountains" width="600" height="400">
-  </a>
-  <div class="desc">Add a description of the image here</div>
-</div>
+    <img src="house1.jpg" alt="Mountains" width="600" height="400"></a>
+  <div class="desc">Add a description of the image here</div></div>
+  
 <div class="gallery">
-  <a target="_blank" href="house1.jpg">
-    <img src="house1.jpg" alt="Mountains" width="600" height="400">
-  </a>
-  <div class="desc">Add a description of the image here</div>
-</div>
+  <a target="_blank" href="house1.jpg"><img src="house1.jpg" alt="Mountains" width="600" height="400"></a>
+  <div class="desc">Add a description of the image here</div></div>
+  
 <div class="gallery">
-  <a target="_blank" href="house1.jpg">
-    <img src="house1.jpg" alt="Mountains" width="600" height="400">
-  </a>
-  <div class="desc">Add a description of the image here</div>
-</div>
+  <a target="_blank" href="house1.jpg"><img src="house1.jpg" alt="Mountains" width="600" height="400"></a>
+  <div class="desc">Add a description of the image here</div></div>
+  
 <div class="gallery">
-  <a target="_blank" href="house1.jpg">
-    <img src="house1.jpg" alt="Mountains" width="600" height="400">
-  </a>
-  <div class="desc">Add a description of the image here</div>
-</div>
+  <a target="_blank" href="house1.jpg"><img src="house1.jpg" alt="Mountains" width="600" height="400"></a>
+  <div class="desc">Add a description of the image here</div></div>
+  
 <div class="gallery">
-  <a target="_blank" href="house1.jpg">
-    <img src="house1.jpg" alt="Mountains" width="600" height="400">
-  </a>
-  <div class="desc">Add a description of the image here</div>
-  <br>
-  <br>
-  <br>
-  <br>
-</div>  
+  <a target="_blank" href="house1.jpg"><img src="house1.jpg" alt="Mountains" width="600" height="400"></a>
+  <div class="desc">Add a description of the image here</div></div>  
 <br>
-   <br>
-  <br>
-  <br>
-  <br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+  
   <div class="center">
   <div class="pagination">
   <a href="#">&laquo;</a>
