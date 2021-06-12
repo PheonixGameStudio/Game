@@ -97,6 +97,10 @@ div.desc {
     <img src="house1.jpg" alt="Mountains" width="600" height="400">
   </a>
   <div class="desc">Add a description of the image here</div>
+  <br>
+  <br>
+  <br>
+  <br>
 </div>  
 <br>
    <br>
