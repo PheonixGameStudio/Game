@@ -103,7 +103,10 @@ div.desc {
   <div class="desc">Add a description of the image here</div>
 </div>  
 <br>
-  
+   <br>
+  <br>
+  <br>
+  <br>
   <div class="center">
   <div class="pagination">
   <a href="#">&laquo;</a>
