@@ -45,7 +45,7 @@ div.desc {
   </a>
   <div class="desc">Add a description of the image here</div>
 </div>
-
+<br>
 <div class="gallery">
   <a target="_blank" href="house1.jpg">
     <img src="house1.jpg" alt="Mountains" width="600" height="400">
