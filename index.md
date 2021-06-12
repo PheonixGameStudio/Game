@@ -5,7 +5,7 @@ div.gallery {
   margin: 5px;
   border: 1px solid #ccc;
   float: left;
-  width: 257px;
+  width: 258px;
 }
 
 div.gallery:hover {
@@ -69,7 +69,7 @@ div.desc {
   <p>g</p>
   <p>g</p>
   <p>g</p>
-  <p>g</p>
+  <p></p>
 <div class="gallery">
   <a target="_blank" href="house1.jpg">
     <img src="house1.jpg" alt="Mountains" width="600" height="400"></a>
