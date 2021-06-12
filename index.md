@@ -87,23 +87,14 @@ div.desc {
 <div class="gallery">
   <a target="_blank" href="house1.jpg"><img src="house1.jpg" alt="Mountains" width="600" height="400"></a>
   <div class="desc">Add a description of the image here</div></div>  
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-  
+
   <div class="center">
+    <br>
+<br>
+<br>
+<br>
+<br>
+<br>
   <div class="pagination">
   <a href="#">&laquo;</a>
   <a href="#" class="active">1</a>
